@@ -1,5 +1,4 @@
-﻿
-<!Doctype html>
+﻿<!Doctype html>
 <htlm lang="pt-br"> 
   <head>
       <meta charset="UTF-8"/>
@@ -11,14 +10,6 @@
                <p>Bem vindos!</p>
                <p>Turma TDSJ2021</p>
                <p> endereço vila olimpia</p>
-
-               <script>
-                  alert("Hello world");
-                  console.log("Acessando o log do console...");
-		  console.error("alertando");
-  		  console.warn("Atenção");
-		  console.info("informando");
-               </script>
           </div>
       </body>
 </html>
