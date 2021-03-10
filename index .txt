@@ -14,6 +14,10 @@
 
                <script>
                   alert("Hello world");
+                  console.log("Acessando o log do console...");
+		  console.error("alertando");
+  		  console.warn("Atenção");
+		  console.info("informando");
                </script>
           </div>
       </body>
