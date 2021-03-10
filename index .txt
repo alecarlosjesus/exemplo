@@ -1,15 +1,19 @@
-﻿<!Doctype html>
+<!Doctype html>
 <htlm lang="pt-br"> 
   <head>
       <meta charset="UTF-8"/>
       <title>EXEMPLO-GIT</title>
-   </head> 
+  </head> 
      <body>
-           <h1>ALÔ MUNDO!</h1>  
-           <div>
-               <p>Bem vindos!</p>
-               <p>Turma TDSJ2021</p>
-               <p> endereço vila olimpia</p>
+       <h1>ALÔ MUNDO!</h1>  
+       <div>
+        <p>Bem vindos!</p>
+         <p>Turma TDSJ2021</p>
+         <p> endereço vila olimpia</p>
+
+      <script>
+        alert("Hello world");
+      </script>
           </div>
-      </body>
-</html>
+     </body>
+</html
